@@ -11,6 +11,7 @@ namespace appveyor_test
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World");
+			Console.WriteLine("Hello Olleh");
 			Console.ReadKey();
 		}
 	}
